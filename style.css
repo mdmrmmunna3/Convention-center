@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&display=swap');
+.carousel-item img{
+    height: 450px;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+.fa-circle-check.color{
+    color: rgb(139, 135, 135);
+}
+
+.button{
+    border-radius: 50px;
+    border: none;
+    background-color: rgba(240, 128, 128, 0.24);
+    padding: 10px 60px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.button2{
+    background-color: white;
+}
